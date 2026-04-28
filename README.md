@@ -20,9 +20,5 @@ Uma calculadora simples e funcional desenvolvida utilizando **HTML**, **CSS** e 
 
 Este projeto foi desenvolvido com o objetivo de fortalecer conhecimentos em desenvolvimento web, principalmente na manipulação de eventos e elementos do DOM com JavaScript.
 
-## 📌 Melhorias futuras
-
-* Adicionar histórico de cálculos
-* Implementar modo escuro 🌙
 
 
